@@ -270,7 +270,7 @@ gc();
 ###### step q
 ## q. Writing the final tidy set
 #
-fileLocation <- "tidySet.csv";
+fileLocation <- "tidySet.txt";
 write.table(tidy_set, fileLocation, append=FALSE, sep = ",", col.names = colnames(tidy_set));
 
 
