@@ -24,7 +24,12 @@ C:\Users\Marco\Desktop\Temp\PeerAssignment>dir
 ``` 
 setwd("C:\\Users\\Marco\\Desktop\\Temp\\PeerAssignment");
 ``` 
-5. Run the script. At the end of the execution the folder will look like this: 
+5. Run the script. In my case the command has been:
+```
+source('C:/Users/Marco/Desktop/Temp/PeerAssignment/run_analysis.R')
+```
+
+At the end of the execution the folder will look like this: 
 ``` 
 C:\Users\Marco\Desktop\Temp\PeerAssignment>dir
  Directory di C:\Users\Marco\Desktop\Temp\PeerAssignment
@@ -38,7 +43,7 @@ C:\Users\Marco\Desktop\Temp\PeerAssignment>dir
 20/04/2014  09.27             4.453 README.txt
 21/04/2014  17.31             7.342 run_analysis.R
 20/04/2014  09.27    <DIR>          test
-21/04/2014  17.25            52.116 tidySet.csv
+21/04/2014  17.25            52.116 tidySet.txt
 20/04/2014  09.27    <DIR>          train
 ``` 
 
